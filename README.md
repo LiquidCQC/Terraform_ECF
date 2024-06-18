@@ -2,7 +2,6 @@
 This repositery is meant for the final evaluation of Studi DevOps Bachelor.
 
 I choose IaC with terraform to create and manage the infrastructure requested.
-![Capture d'écran 2024-06-13 105659](https://github.com/LiquidCQC/Terraform_ECF/assets/84178150/1b772b53-6828-4ce7-bf68-1ee91480bf13)
 
 # Infrastructure architecture
 ![Capture d'écran 2024-06-13 105659](https://github.com/LiquidCQC/Terraform_ECF/assets/84178150/1b772b53-6828-4ce7-bf68-1ee91480bf13)
