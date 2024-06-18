@@ -2,9 +2,10 @@
 This repositery is meant for the final evaluation of Studi DevOps Bachelor.
 
 I choose IaC with terraform to create and manage the infrastructure requested.
+![Capture d'écran 2024-06-13 105659](https://github.com/LiquidCQC/Terraform_ECF/assets/84178150/1b772b53-6828-4ce7-bf68-1ee91480bf13)
 
 # Infrastructure architecture
--> Add image of the infrastructure
+![Capture d'écran 2024-06-13 105659](https://github.com/LiquidCQC/Terraform_ECF/assets/84178150/1b772b53-6828-4ce7-bf68-1ee91480bf13)
 
 This terraform is meant to be fully reusable. Terraform modules with generic variable specified in a variables.tfvars allow us to just have on file to modify if we want to change our infrastructure.
 This code is based on harshitadwivedi1199
